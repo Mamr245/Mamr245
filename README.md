@@ -29,6 +29,7 @@ I started my professional career as a mechanical engineer but always loved digit
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/jira2966.logowik.com.webp" alt="Jira" height="50" /></a> 
 <a href="https://www.getxray.app/" target="_blank"><img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/k3huxfe9vfbic6vuvurwtsvu5ggz" alt="Xray" height="50" /></a> 
 <a href="https://www.istqb.org/" target="_blank"><img src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt="ISTQB_Cert" height="50" /></a> 
+<a href="https://playwright.dev/" target="_blank"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" height="50" /></a> 
 </div>
 
 ## Connect With Me 🔗 
