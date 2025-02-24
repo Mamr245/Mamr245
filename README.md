@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://media.tenor.com/zio4hRalHYIAAAAC/hi-wave.gif" align="center" style="width: 100%;" />
+<img src="https://image.myanimelist.net/ui/bfln5jRa_L37ziNWm-xNvP4ChrADdBcHPGwdnRJ2ZN461olwtArKu0sU9d12pmzg1fWvCIgJFg8M2GX3Ujcu6ebPxhaE1sJF6CIppgsPq7Y" align="center" style="width: 50%" />
 </div>  
   
 ## <div align="center">Hi there, stranger! I'm Miguel, a software tester! Nice to meet you! 👋🏼 </div>
 
 ## About me 🕵🏼
-I started my professional career as a mechanical engineer but always loved digital technologies. Once the opportunity to work in the IT industry appeared I decided to give it a try. I became a software tester and haven't looked back since. I also enjoy programming a lot and hope to be able to program great things in the future! Other than coding I enjoy:
+I started my professional career as a mechanical engineer but once the opportunity to work in the IT industry appeared I decided to give it a try. Since then, I've become a software tester and haven't looked back. Outside of my profesisonal duties, I enjoy:
 
 -  Reading 📚   
 -  Gaming 🎮  
@@ -26,10 +26,11 @@ I started my professional career as a mechanical engineer but always loved digit
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://robotframework.org/img/RF.svg" alt="RobotFramework" height="50" /></a> 
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://logowik.com/content/uploads/images/jira2966.logowik.com.webp" alt="Jira" height="50" /></a> 
-<a href="https://www.getxray.app/" target="_blank"><img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/k3huxfe9vfbic6vuvurwtsvu5ggz" alt="Xray" height="50" /></a> 
-<a href="https://www.istqb.org/" target="_blank"><img src="https://www.gasq.org/files/content/gasq/downloads/certification/ISTQB/ISTQB.png" alt="ISTQB_Cert" height="50" /></a> 
-<a href="https://playwright.dev/" target="_blank"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" height="50" /></a> 
+<a href="https://cucumber.io/" target="_blank"><img src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7370/original/Cucumber_studio_icon.png" alt="Cucumber" height="50" /></a>
+<a href="https://www.cypress.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="Cypress" height="50" /></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680591874071/aba70325-05df-416c-a964-371a48a2b0a0.png" alt="Playwright" height="50" /></a>
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" height="50" /></a> 
+<a href="https://www.getxray.app/" target="_blank"><img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/k3huxfe9vfbic6vuvurwtsvu5ggz" alt="Xray" height="50" /></a>  
 </div>
 
 ## Connect With Me 🔗 
