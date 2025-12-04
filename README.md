@@ -41,4 +41,4 @@ I started my professional career as a mechanical engineer but once the opportuni
 <img src="https://komarev.com/ghpvc/?username=Mamr245&&style=flat-square" align="center" />
 </div>  
 
-## <div align="center">Thank you for passing by! 👋🏼</div>
+## <div align="center">Thank you for visiting! 👋🏼</div>
