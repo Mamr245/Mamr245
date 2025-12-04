@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://image.myanimelist.net/ui/bfln5jRa_L37ziNWm-xNvP4ChrADdBcHPGwdnRJ2ZN461olwtArKu0sU9d12pmzg1fWvCIgJFg8M2GX3Ujcu6ebPxhaE1sJF6CIppgsPq7Y" align="center" style="width: 50%" />
-</div>  
-  
 ## <div align="center">Hi there, stranger! I'm Miguel, a software tester! Nice to meet you! 👋🏼 </div>
 
 ## About me 🕵🏼
