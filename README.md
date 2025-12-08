@@ -10,7 +10,7 @@ I started my professional career as a mechanical engineer but once the opportuni
 
 ## My Skill Set 🛠️ 
 
-### Programming:
+#### Programming:
 <div align="left">
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
@@ -19,7 +19,7 @@ I started my professional career as a mechanical engineer but once the opportuni
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/373830/matlab.svg" alt="MatLab" height="50" /></a>  
 </div>
 
-### Automation:
+#### Automation:
 <div align="left">
 <a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://robotframework.org/img/RF.svg" alt="RobotFramework" height="50" /></a> 
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>
@@ -28,19 +28,19 @@ I started my professional career as a mechanical engineer but once the opportuni
 <a href="https://playwright.dev/" target="_blank"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1680591874071/aba70325-05df-416c-a964-371a48a2b0a0.png" alt="Playwright" height="50" /></a>
 </div>
 
-### Databases:
+#### Databases:
 <div align="left">
 <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" height="50" /></a>  
 </div>
 
-### Testing Tools:
+#### Testing Tools:
 <div align="left">
 <a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" height="50" /></a> 
 <a href="https://www.getxray.app/" target="_blank"><img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/k3huxfe9vfbic6vuvurwtsvu5ggz" alt="Xray" height="50" /></a> 
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="50" /></a>  
 </div>
 
-### DevOps:
+#### DevOps:
 <div align="left">  
 <a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="Jenkins" height="50" /></a>   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
