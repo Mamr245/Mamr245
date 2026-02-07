@@ -35,7 +35,7 @@ I started my professional career as a mechanical engineer but once the opportuni
 
 #### Testing Tools:
 <div align="left">
-<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/2560px-Jira_Logo.svg.png" alt="Jira" height="50" /></a> 
+<a href="https://www.atlassian.com/software/jira" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Jira_Logo.svg/1280px-Jira_Logo.svg.png" alt="Jira" height="50" /></a> 
 <a href="https://www.getxray.app/" target="_blank"><img src="https://s3.eu-west-1.amazonaws.com/matrix.assets/k3huxfe9vfbic6vuvurwtsvu5ggz" alt="Xray" height="50" /></a> 
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" height="50" /></a>  
 </div>
