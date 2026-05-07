@@ -1,12 +1,7 @@
-## <div align="center">Hi there, stranger! I'm Miguel, a software tester! Nice to meet you! </div>
+## <div align="center">Hello stranger! I'm Miguel, a software tester! </div>
 
 ## About me 🕵🏼
-I started my professional career as a mechanical engineer but once the opportunity to work in the IT industry appeared I decided to give it a try. Since then, I've become a software tester and haven't looked back. Outside of my professional duties, I enjoy:
-
--  Reading 📚   
--  Gaming 🎮  
--  Traveling 🗺️  
--  Peaceful walks 🚶🏻  
+I started my professional career as a mechanical engineer but once the opportunity to work in the IT industry appeared I decided to give it a try. Since then, I've become a software tester and haven't looked back. Outside of my professional duties, my biggest interests are cars, reading, gaming and swimming. 
 
 ## My Skill Set 🛠️ 
 
@@ -57,4 +52,4 @@ I started my professional career as a mechanical engineer but once the opportuni
 <img src="https://komarev.com/ghpvc/?username=Mamr245&&style=flat-square" align="center" />
 </div>  
 
-## <div align="center">Thank you for visiting! 👋🏼</div>
+## <div align="center">Thank you for visiting! </div>
