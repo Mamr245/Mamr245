@@ -25,7 +25,7 @@ I started my professional career as a mechanical engineer but once the opportuni
 
 #### Databases:
 <div align="left">
-<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL" height="50" /></a>  
+<img style="margin: 10px" src="https://static.vecteezy.com/system/resources/thumbnails/036/044/336/small_2x/sql-database-icon-logo-design-ui-or-ux-app-png.png" alt="SQL" height="50" /></a>  
 </div>
 
 #### Testing Tools:
