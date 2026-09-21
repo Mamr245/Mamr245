@@ -16,7 +16,7 @@ I started my professional career as a mechanical engineer but once the opportuni
 
 #### Automation:
 <div align="left">
-<a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://robotframework.org/img/RF.svg" alt="RobotFramework" height="50" /></a> 
+<a href="https://robotframework.org/" target="_blank"><img style="margin: 10px" src="https://images.seeklogo.com/logo-png/46/2/robot-framework-logo-png_seeklogo-462634.png" alt="RobotFramework" height="50" /></a> 
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://www.svgrepo.com/show/354321/selenium.svg" alt="Selenium" height="50" /></a>
 <a href="https://cucumber.io/" target="_blank"><img src="https://cdn-public.softwarereviews.com/production/favicons/offerings/7370/original/Cucumber_studio_icon.png" alt="Cucumber" height="50" /></a>
 <a href="https://www.cypress.io/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/cypress-1.svg" alt="Cypress" height="50" /></a>
